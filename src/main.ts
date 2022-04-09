@@ -4,7 +4,7 @@ import { upgrader } from "@/modules/role.upgrader";
 import { builder } from "./modules/role.builder";
 import _ from "lodash";
 
-const HARVESTER_COUNT = 2; // 工人数量
+const HARVESTER_COUNT = 2; // 采集者数量
 const UPGRADER_COUNT = 3; // 升级者数量
 const BUILDER_COUNT = 4; // 建造者数量
 
